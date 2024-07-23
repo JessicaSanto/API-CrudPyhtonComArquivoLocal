@@ -72,7 +72,7 @@ def get_carros_id(id):
 # *********************************************************************************************************************************************
 
 
-# **************** SEGUNDO MÉTODO - CRIAR NOVOS DADOS (GET) ******************
+# **************** SEGUNDO MÉTODO - CRIAR NOVOS DADOS (POST) ******************
 # Vamos capturar os dados que estão sendo passados na requisição e armazenar no nosso "banco de dados"
 # Adicionar no import do Flask -> request 
 # Criação do segundo métoodo. Criamos primeiro o def e depois o @app
